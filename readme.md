@@ -1,4 +1,4 @@
-# Asynconf 2023 Hackaton
+# Asynconf 2023 Hackathon
 
 ### Author: Petchou
 

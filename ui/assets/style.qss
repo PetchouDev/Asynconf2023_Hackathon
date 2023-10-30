@@ -1,0 +1,48 @@
+QWidget {
+    font-family: 'PhrasticMedium';
+    background-color: transparent;
+    color: #b1b0b0;
+}
+
+#mainWindow {
+    background-color: rgb(49, 49, 49);
+    background-image: url(ui/assets/wallpaper.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
+QLabel {
+    background-color: transparent;
+}
+
+#title {
+    color: #309fb3;
+    margin-top: 50px;
+    font-size: 65px;
+    font-weight: bold;
+    margin-top: -20px;
+}
+
+#selectorLabel {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Emmet';
+}
+
+QComboBox {
+    font-size: 20px;
+    border: None;
+    background-color: transparent;
+    margin-top: 20px;
+}
+
+QComboBox::down-arrow {
+    image: none;
+    width: 10px;
+    height: 10px;
+}
+
+#selector1 {
+    border: 1px solid #40846e;
+}
